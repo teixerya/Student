@@ -10,6 +10,7 @@ package student;
  * @author ryanteixeira
  * This comment was added on Feb 5th at 9:20 to revise week 2
  This comment was added from github at 9:40am to check fetch and merge
+ This comment is to check PULL
  */
 public class Student {
   private String name;
