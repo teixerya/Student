@@ -7,7 +7,8 @@ package student;
 
 /**
  *
- * @author ryanteixeir
+ * @author ryanteixeira
+ * This comment was added on Feb 5th at 9:20 to revise week 2
  */
 public class Student {
   private String name;
